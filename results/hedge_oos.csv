@@ -1,0 +1,6 @@
+asset,oos_weekends,hedge_ratio_full_sample,variance_removed_fitted,variance_removed_one_to_one,unhedged_gap_sd,hedged_gap_sd
+brent,14,0.658,0.798,0.765,0.025,0.011
+wti,14,0.79,0.882,0.789,0.022,0.008
+gold,14,0.875,0.17,0.146,0.004,0.004
+silver,14,0.77,-0.1,-0.108,0.015,0.016
+platinum,14,-0.251,-0.043,-0.253,0.017,0.017

@@ -1,0 +1,6 @@
+asset,hl_coin,daily_source,hl_first_bar,first_weekend,last_weekend,weekends
+brent,xyz:BRENTOIL,yahoo,2026-03-22,2026-03-27,2026-10-09,24
+wti,xyz:CL,yahoo,2026-03-22,2026-03-27,2026-10-09,24
+gold,xyz:GOLD,yahoo,2026-03-22,2026-03-27,2026-10-09,24
+silver,xyz:SILVER,yahoo,2026-03-22,2026-03-27,2026-10-09,24
+platinum,xyz:PLATINUM,yahoo,2026-03-22,2026-03-27,2026-10-09,24
