@@ -63,3 +63,6 @@ python weekend_gap_study.py
 ```
 
 Raw data is cached in `data/` on first run. Delete it to refresh. Every table above is written to `results/` as CSV, along with the per-weekend panel for each asset.
+
+
+See [FINDINGS.md](FINDINGS.md) for the reopen-convergence and IOP tradeability results.
